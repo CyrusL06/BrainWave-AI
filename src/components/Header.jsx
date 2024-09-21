@@ -81,6 +81,7 @@ const Header = () => {
                     </a>
                 ))}
           </div>
+            {/*Menu for Smaller Screen*/}
           <HamburgerMenu/>
         </nav>  
 
